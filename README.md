@@ -9,7 +9,7 @@ Small-Bench NLP, is a benchmark for small efficient neural language models train
 Meanwhile, if you have any questions, you can reach out to us at smallbenchnlp@gmail.com.
 
 ### Citation 
-To read more about Small-Benclh NLP benchmark paper, click [here] (https://arxiv.org/abs/2109.10847). 
+To read more about Small-Benclh NLP benchmark paper, click [here](https://arxiv.org/abs/2109.10847). 
 
 To cite our paper -
 ```
